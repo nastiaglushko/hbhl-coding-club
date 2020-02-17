@@ -1,2 +1,4 @@
 # hbhl-coding-club
 Some teaching materials for the Healthy Brains, Healthy Lives Coding Club.
+
+Coding Club is a 10-week program for graduate students in neuroscience-related fields at McGill University, funded by the Healthy Brains, Healthy Lives initiative. The program provides an introduction to data analysis using Python. This includes Python syntax, NumPy, Pandas, Matplotlib, SciPy, and Scikit-learn. Coding Club has two components: an online course and ten 2-hour long in-class sessions. Prior to each in-class session, students have to go over a specific part of the Analyzing Data with Python Skill Path on https://www.codecademy.com/. The weekly in-class sessions include collaborative group activities as well as independent learning exercises. We use simulated data and openly available datasets to practice material learned online.
